@@ -1,5 +1,5 @@
 # Ссылка на проект:
-Будет доступна позже
+http://vuejs-stock-exchanger.s3-website.eu-central-1.amazonaws.com/
 
 ![Alt text](/demo_images/stock.png)
 ![Alt text](/demo_images/profile.png)
